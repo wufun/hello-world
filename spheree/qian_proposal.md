@@ -36,5 +36,23 @@
 3D selection metaphors:\
 &nbsp;&nbsp;&nbsp; virtual hand; virtual pointing.
 
+-----------------------
+### Literature Review
+#### 1. Automatic Multiple-Projector Spherical Display Calibration
+- Scale
+- Visibility
+- Perspective-correction
+#### 2. Error Analysis of 3D Visualisation with the Spherical FTVR
+- **ARTIFACTS**: distortion; ghosting effect; floating effect.
+- **ERRORS**: Viewpoint Error; Display Error.
+##### (1) Static Visualisation in a Spherical Fish Tank VR
+&nbsp;&nbsp;&nbsp;&nbsp; *Viewport error plays a vital role on the visual error.*
+##### (1) Dynamic Visualisation in a Spherical Fish Tank VR
+&nbsp;&nbsp;&nbsp;&nbsp; - Tracker jiggering
+&nbsp;&nbsp;&nbsp;&nbsp; - Viewpoint Offset
+&nbsp;&nbsp;&nbsp;&nbsp; - Tracker Latency
+
+
+
 
 
