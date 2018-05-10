@@ -10,10 +10,8 @@
 * 3D interaction: use **Fitt's Law** to design and evaluate 3D selection techniques.\
 /*a well-established method for comparing hci for pointing and selection./*
 * a spherical display is a natural fit for bimanual interactions.\
-
---
-**Flow**:\
-**Calibration approach** for a multiple-projector spherical display -> analysis of visualisation **error** of it -> \
+### Flow:
+- **Calibration approach** for a multiple-projector spherical display -> analysis of visualisation **error** of it -> \
 3D visualization*  -> 3D interaction* \
 *evaluate the usefulness of spherical FTVR with visualization tasks\
 *design and validation of an effective 3D selection technique*
