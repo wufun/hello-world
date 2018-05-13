@@ -25,7 +25,7 @@
 #### 2. Multiple-Projector System Calibration
 #### 3. Error Analysis of Virtual Environments
 #### 4. Spatial Perception Studies in Virtual Environments
-*path tracing task* &nbsp&nbsp&nbsp *mental rotation task*
+*path tracing task* &nbsp;&nbsp;&nbsp; *mental rotation task*
 #### 5. Interactions with Spherical Displays
 1. elementary operations: \
 &nbsp;&nbsp;&nbsp;&nbsp; selection; translation; rotation; scaling; navigation; menu command; filter
