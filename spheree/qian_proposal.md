@@ -52,6 +52,15 @@
 &nbsp;&nbsp;&nbsp;&nbsp; - Viewpoint Offset
 &nbsp;&nbsp;&nbsp;&nbsp; - Tracker Latency
 
+-----------------------
+### Work Planned
+#### 1. Effective Spatial Visualisatioin with Spherical FTVR
+* mental rotation task
+#### 2. Bimanual 3D Selection with Spherical FTVR
+* Previous: use a ray cursor for selection
+* Bimanual: \
+&nbsp;&nbsp;&nbsp;*Non-dominant hand*: control and hold the plane;\
+&nbsp;&nbsp;&nbsp;*Dominant*: control cursor to selection the target.
 
 
 
