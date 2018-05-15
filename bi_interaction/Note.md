@@ -3,8 +3,8 @@
 2. viewpoint motion control
 3. manipulation of the object
 -----------------------
-**Performance metrics:**
-*typical ones:* task completion time; task failure/error rate
+**Performance metrics:** 
+* *typical ones:* task completion time; task failure/error rate
 * Fitts' law
 * distance error from a target location
 * Heuristic evaluation
