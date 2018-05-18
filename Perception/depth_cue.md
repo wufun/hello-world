@@ -25,6 +25,25 @@ Accommodation; Convergence; Pupillary constriction
 ------------
 ## Quality and visual comfort of 3D display
 ### 1. Types of 3D displays and related 3D characteristics
+- Binocular displays
+- Multi-view displays
+- Integral imaging displays
+- Volumetric displays
+- Holographic displays
 
+### 2. Crucial depth cues
+- the investigation of human factors and visual comfort
+> Based on our experience, natural, full-parallax motion cues and consistent oculomotor cues of vergence and
+accommodation are likely to be the most decisive factors for a comfortable 3D viewing experience.
+#### 2.1 Natural motion pparallax
+#### 2.2 Consistent oculomotor cues - Matched vergence and accommodation
+* natural viewing 
+* stereoscopic viewing\
+@@@ **the confict between accomodation and convergence.**
+> For all efforts, the conflict between accommodation and convergence, which is inherent in all 3D stereo
+displays can only be weakened but not resolved.
+### Seereal's Holographic Display Technology
+> The key idea of our
+solution to electro-holography is to reconstruct a limited angular spectrum of the wave field of the 3D object, which is adapted in size to about the human’s eye entrance pupil.
 
 
