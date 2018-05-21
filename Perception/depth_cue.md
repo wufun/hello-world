@@ -1,4 +1,5 @@
 ## Depth Perception and Visual Cues
+![d](https://github.com/wufun/hello-world/blob/master/Perception/cues.png)
 ### 1. Visual depth cues
 (1) monocular cues\
 &ensp;&ensp;i. pictorial depth cues\
@@ -30,7 +31,7 @@ Accommodation; Convergence; Pupillary constriction
 - Integral imaging displays
 - Volumetric displays
 - Holographic displays
-
+![d](https://github.com/wufun/hello-world/blob/master/Perception/display.png)
 ### 2. Crucial depth cues
 - the investigation of human factors and visual comfort
 > Based on our experience, natural, full-parallax motion cues and consistent oculomotor cues of vergence and
