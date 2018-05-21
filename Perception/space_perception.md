@@ -1,5 +1,6 @@
 > http://webvision.med.utah.edu/book/part-viii-gabac-receptors/space-perception/
-##2 terms decribing direction sense:##
+-----------
+**2 terms decribing direction sense:**
 1. Oculocentric Visual Direction
 2. Egocentric Visual Direction
 
