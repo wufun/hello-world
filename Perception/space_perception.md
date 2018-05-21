@@ -4,10 +4,15 @@
 2. Egocentric Visual Direction
 
 ## 1. Oculocentric Visual Direction
-![image](hello-world/Perception/Space1.jpg)
+![image](https://github.com/wufun/hello-world/blob/master/Perception/Space1.jpg)
 
 ## 2. Egocentric Visual Direction
+![image](http://webvision.med.utah.edu/imageswv/Space2.jpg)
 
+![image](http://webvision.med.utah.edu/imageswv/Space3.jpg)
+
+
+![image](http://webvision.med.utah.edu/imageswv/Space6.jpg)
 ## The Horopter
 1. Vieth-Muller Circle
 2. Measuring the Horopter
