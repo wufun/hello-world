@@ -82,3 +82,12 @@ fused and seen without double images is called **Panum’s fusional area**
 much worse in stereoscopic computer displays than in normal viewing of the 3D
 environment.
 
+## Frame Cancellation
+## The Vergence-Focus Problem
+## Distant Objects
+- disparities too small
+## Making Effective Stereoscopic Displays
+- require high resolution
+## Cyclopean Scale
+- to deal with diplopia problems
+- 
