@@ -116,3 +116,6 @@ are combined with different weightings depending on the task. Whatever the task
 (for example, threading a needle or running through a forest), certain depth cues are
 informative and other cues can be irrelevant.
 - There is a dependency graph for depth cues. Occlusion is the most basic depth cue.
+
+# Task-Based Space Perception
+## Tracing Data Paths in 3D Graphs
