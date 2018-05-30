@@ -92,3 +92,22 @@ environment.
 - to deal with diplopia problems
 - ![image](https://github.com/wufun/hello-world/blob/master/Perception/cyclopean%20scale.png)
 
+## Virtual Eye Separation
+> If the virtual eye separation is smaller
+than the actual eye separation, stereo depth is decreased. If the virtual eye separation is
+larger than the actual eye separation, stereo depth is increased.
+
+## Artificial Spatial Cues
+- consider using drop lines to add depth information for small numbers
+of discrete isolated objects.
+![image](https://github.com/wufun/hello-world/blob/master/Perception/artificial.png)
+- consider using halos to enhance occlusion
+where this is an important depth cue and where overlapping objects have the
+same color or minimal luminance difference.
+
+# Depth Cues in Combination
+> cues
+are combined with different weightings depending on the task. Whatever the task
+(for example, threading a needle or running through a forest), certain depth cues are
+informative and other cues can be irrelevant.
+- There is a dependency graph for depth cues. Occlusion is the most basic depth cue.
