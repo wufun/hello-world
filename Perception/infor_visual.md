@@ -23,7 +23,7 @@
 - objects of **known size** have a powerful role in determining the size of **unkown** one.
 - Texture elements become **smaller** with distance.
 
-## Pictures Seen from the Wrong Viewpoint
+## !!Hightlight!! Pictures Seen from the Wrong Viewpoint
 - robustness of linear perspective
 - FTVR: motion parallax
 > With this information,
