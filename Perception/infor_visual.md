@@ -31,7 +31,12 @@ a 3D scene can be computed and viewed so the perspective is “correct” at all
 times by adjusting the viewpoint parameters in the computer graphics software
 (Deering, 1992). I called this setup fish-tank virtual reality to contrast it with the
 immersive virtual reality that is obtained with head-mounted displays
-
+- !!!!!
+> The first reason is that, as an observer changes position, the perspective image will
+change accordingly, resulting in **motion parallax**. Motion parallax is itself a depth
+cue, as discussed later in the structure-from-motion section. The second reason is
+that in some virtual-reality systems it is possible to place the subject’s hand in
+the same space as the virtual computer graphics imagery.
 ## Occlusion
 - If one object overlaps or occludes another, it appears closer to the observer
 
