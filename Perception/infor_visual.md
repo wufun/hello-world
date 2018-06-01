@@ -120,6 +120,13 @@ informative and other cues can be irrelevant.
 # Task-Based Space Perception
 ## Tracing Data Paths in 3D Graphs
 > Empirical evidence shows that the number of errors in detecting paths in 3D tree structures
-is substantially reduced if **stereoscopic** and **motion depth cues** are used.
-> Having a **higher resolution** screen can increase the benefit of stereo and motion cues.
+is substantially reduced if stereoscopic and motion depth cues are used.
+> Having a higher resolution screen can increase the benefit of stereo and motion cues.
+
 ## Judging the Morphology of Surfaces
+- *Surface Shape Perception*
+- the combination of
+shading (either specular or Lambertian) with either stereo or motion was either the best
+or nearly the best combination for all the subjects.
+### Conformal Textures
+
