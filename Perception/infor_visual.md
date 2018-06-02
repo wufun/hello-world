@@ -129,4 +129,34 @@ is substantially reduced if stereoscopic and motion depth cues are used.
 shading (either specular or Lambertian) with either stereo or motion was either the best
 or nearly the best combination for all the subjects.
 ### Conformal Textures
+- shape-from-shading information is inherently ambiguous; it
+can be interpreted in different ways, depending on the **contours**.
+- One of the most common ways to represent surfaces is to use a contour map.
+
+### Guidelines for Displaying Surfaces
+There are also temporal factors to be considered if viewing times are brief.
+
+### Bivariate Maps - Lighting and Surface Color
+
+### Patterns of Points in 3D Space
+- It is likely then that the only depth cues in a 3D scatterplot are stereoscopic depth and
+structure-from-motion. 
+- One
+way to add extra shape information to a cloud of discrete points is to add shape-fromshading
+information artificially.
+
+### Perceiving Patterns in 3D Trajectories
+- To represent 3D trajectories, consider using shaded tube or box extrusions,
+with periodic bands to provide orientation cues. Also, apply motion parallax and
+stereoscopic viewing, if possible.
+
+### Judging Relative Positions of Objects in Space
+- *Reference*
+
+### Judging the Relative Movements of Self within the Environment
+- **Vection**
+- side effect: Simulator sickness
+
+
+
 
