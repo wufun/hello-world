@@ -157,6 +157,42 @@ stereoscopic viewing, if possible.
 - **Vection**
 - side effect: Simulator sickness
 
+### Selecting and Positioning Objects in 3D
+> Getting perfect registration between a user’s hand and a virtual object is very difficult. while it is easier to show 
+both the hand and object virtually
+
+### Judging the "Up" Direction
+> To define vertical polarity in a 3D data space, provide a clear reference
+ground plane and place recognizable objects on it that have a characteristic orientation
+with respect to gravity.
+
+### The Aesthetic Impression of 3D Space (Presence)
+- To create a vivid sense of presence in a 3D data space, provide a large field
+of view, smooth motion, and a lot of visual detail.
+
+# Conclusion
+- Deciding whether or not to use a 3D display must involve deciding whether there are
+sufficient important subtasks for which 3D is clearly beneficial.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
