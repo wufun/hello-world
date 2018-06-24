@@ -34,6 +34,31 @@ potential factors on user performance: \
 (3) curvature of the wire.
 ## 2. User Study 1: Effect of Ring Radius
 ## 3. User Study 2: Effects of Wire Length and Curvature
-* #Combining results from both studies, we can confirm that wire-tracing
-task follows a model similar to 2D steering law#
+* *Combining results from both studies, we can confirm that wire-tracing task follows a model similar to 2D steering law*
+
+# Potential Application
+## 1. Personal Entertainment
+## 2. Design and Prototyping
+> Using direct mapping, the user would be able to control a virtual
+stylus to do 3D drawing, sculpturing and assembling.
+## 3. Scientific Simulation and Visualization
+> they can select, mark and manipulate the 3D data with direct mapping,
+turning pCubee into a interactive simulation platform for tasks such
+as surgery operations.
+## 4. Collaborative Working
+
+# Future Directions
+
+## 1. Tracking Technology
+- calibration of the tracking system
+## 2. Cross-Screen Multi-Touch
+## 3. Trajectory-Based Tasks
+- As pointed out previously, tasks involving free movement in virtual 3D environment
+are inherently diffcult due to lack of constrains and affordances.
+- It would be useful to investigate
+both virtual and physical trajectory-based tasks with varying diffculty levels,
+and understand any performance difference as well as factors causing the
+gap.
+## 4. Comparison of Geometric Display Technologies
+- Based on steering law model.
 
