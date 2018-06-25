@@ -30,6 +30,12 @@
 #### Binocular disparity and stereopsis
 - stereopsis
 ## 2. The Auditory System
+### Auditory Cues
+#### 1. Binaural Cues
+#### 2. Head-Related Transfer Functions
+#### 3. Reverberation
+#### 4. Sound Intensity
+#### 5. Vestibular Cues
 
 
 ---
@@ -43,5 +49,19 @@
 ### Kinematic and Proproceptive Cues
 > Proprioceptive cues provide people with information about the position and angle of body joints, which humans are able to understand well without direct visual contact. That is, even blind people are easily able to understand the relative location and angle of, for example, hands and feet.
 ### Effects of Tactile and Kinesthetic Cues on Haptic Perception
+------------
+## 4. Chemical Sensing System
+Olfactory; Gustatory
+
+## 5. Sensory Substitution and Multisensory Processing
+## Evaluation Methods
+### 1. Subjective Measures
+- User-preference
+- Cybersickness
+### 2. Performance Measures
+- time
+- Fitts's law
+### 3. Psycho-Physiological Methods
+- Eye tracking
 
 
