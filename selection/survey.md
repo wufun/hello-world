@@ -18,7 +18,7 @@ latency [97].
 &ensp;&ensp;1. ballistic phase 
 &ensp;&ensp;2. corrective phase
 # 3. Classification of selection techniques
-
+![image](https://github.com/wufun/hello-world/blob/master/Perception/artificial.png)
 ## 3.1 Selection tool
 - virtual hand and virtual pointing techniques are completely determined by
 the selection tool.
