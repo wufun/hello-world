@@ -19,7 +19,8 @@ latency [97].
 &ensp;&ensp;2. corrective phase
 # 3. Classification of selection techniques
 ![image](https://github.com/wufun/hello-world/selection/bowman.png)
-![image](https://github.com/wufun/hello-world/selection/bowman.png)
+![image](https://github.com/wufun/hello-world/selection/Poupyrev.png)
+![image](https://github.com/wufun/hello-world/selection/classification.png)
 ## 3.1 Selection tool
 - virtual hand and virtual pointing techniques are completely determined by
 the selection tool.
