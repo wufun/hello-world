@@ -93,4 +93,59 @@ selecting distant objects
 - navigate-to-select
 
 ## 4.3 Object density
+- Occlusion is a common issue for cluttered
+environments, high object density leads to occluded objects from
+the user viewpoint,reducing user’s selection performance
+- In these situations the user has
+two main choices,navigate to find a nun-occluded view of the
+target or perform the selection from the occluded viewpoint.
 
+- for occlusion management and identify five main design patterns:
+Multiple Viewports(using two or more separate views of the
+scene), VirtualX-Ray(turn occluded objects visible),TourPlan-
+ners (a precomputed camera animation reveals the otherwise
+occluded geometry),VolumetricProbes(user controls an object
+which alters the environment in its neighborhood) and Projection
+Distorters (non-linear projections integrate two or more views into
+a single view).
+
+## 4.4 Input and Output Devices
+### 4.4.1 Input device DoFs
+- Minimize # DoFs. (the more DoFs, the harder the control of the selection tool)
+
+### 4.4.2 Ergonomics
+> For selection tasks requiring
+high accuracy input devices relying on smaller muscle groups
+should be employed.
+
+### 4.4.3 Displays
+- Available display devices range from semi-immersive displays, LCD screens and projection based systems,to fully immersive displays like head-mounted displays and CAVEs systems.
+- Displays can be classified into non-obstructive and obstructive
+displays
+
+## 4.5 User fatigue
+- Selection
+techniques are more prone to arm and wrist strain, while for
+example, navigation techniques are more prone to induce simula-
+tion sickness.
+> Virtual hand techniques will require more arm effort than virtual
+pointing techniques,while virtual pointing techniques will require
+more wrist effort.
+## 4.6 Application performance, latency and noise
+- Noisy tracking devices in
+combination with users’ handtrembling [48] decrease the precision of the selection technique.
+- When high precision is required,a device with low latency and
+low noise should be used.
+## 4.7 User's preferences
+Customization
+
+# 5. Conclusions and future outlook
+- Limitations
+1. visual feedback issues (occlusion, visibility mismatch,depth perception in stereoscopic
+displays)
+2. inherent features of the human motor system. (instability when interacting in freespace,speed-accuracy trade-
+off, neuro motor noise).
+
+- current technology fails to provide the same level of cues for
+understanding the environment and does not reproduce faithfully
+the physical constraints of the real world
