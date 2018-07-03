@@ -1,3 +1,4 @@
+## ISITH
 > The
 concept allows controlled translation of virtual objects in an
 **increased interaction volume**, not restricted by *arm’s length* and
@@ -17,3 +18,14 @@ of possibilities** and **the intuitiveness of interaction**.
 2. the possibility of grabbing partially or totally occluded objects
 3. nonlinear mappings
 
+
+
+------------------------
+
+## Slice-n-Swipe
+
+- using 3D mouse for 3D selection.
+- we use a 3D
+mouse for viewpoint manipulation with the non-dominant hand,
+which enables the user to perform the more precise task of
+selection with the dominant hand.
