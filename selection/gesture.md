@@ -51,3 +51,8 @@ outperformed other one-step approaches *eg. point cursor and 3D bubble cursor.*
 # 5. Study 3: option selection in a 3D layout
 - directions towards right and front were comfortable for our right-handed participants and on-axis directions such as up, down and back were also preferred. 
 - moving the hand forward and backwards for selection was significantly slower than in other directions with hand-held devices. due to large muscle groups reqired.
+# 6 Design suggestions
+1. arm fatigue// seperate a highly demanding task into several easy one.
+2. goal crossing technique. without the need of confirmation trigger.
+3. hand motion in z dimension can be a trigger to invoke certain commands.
+4. cross-body movements are not preferable such as left-down or left-back.
