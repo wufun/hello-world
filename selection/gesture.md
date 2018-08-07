@@ -49,3 +49,5 @@ outperformed other one-step approaches *eg. point cursor and 3D bubble cursor.*
 - goal crossing: Reach // speed: Stroke
 - Reach is slower but more accurate than Stroke.
 # 5. Study 3: option selection in a 3D layout
+- directions towards right and front were comfortable for our right-handed participants and on-axis directions such as up, down and back were also preferred. 
+- moving the hand forward and backwards for selection was significantly slower than in other directions with hand-held devices. due to large muscle groups reqired.
