@@ -1,0 +1,2 @@
+- Purpose: Avoid hand or tracker jitter caused by ray-casting selection, also the inavailability of high-precision pointing.
+- 
