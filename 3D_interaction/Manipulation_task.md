@@ -19,7 +19,8 @@ I. Vector-Based Pointing Techniques
 // @ gace based ray-casting\
 // small and far away objects
 2. fishing reel
-3. image-plane pointing\
+3. image-plane pointing
+
 II. Volume-based pointing
 1. flashlight
 2. aperture selection\
