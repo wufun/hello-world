@@ -32,3 +32,14 @@ $$ *Enhancements for Pointing Metaphors*
 2. depth ray
 3. absolute and relative mapping\
 // control-display ratio
+
+## 3. BIMANUAL METAPHORS
+I. Symmetric Bimanual Techniques
+1. Spindle
+2. iSith
+II. Asymmetric Bimanual Techniques
+1. Spindle + Wheel\
+//rotation
+2. flexible pointer\
+// curved ray especially for occluded objects
+
