@@ -36,7 +36,7 @@ $$ *Enhancements for Pointing Metaphors*
 ## 3. BIMANUAL METAPHORS
 I. Symmetric Bimanual Techniques
 1. Spindle
-2. iSith
+2. iSith \
 II. Asymmetric Bimanual Techniques
 1. Spindle + Wheel\
 //rotation
