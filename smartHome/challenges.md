@@ -9,3 +9,7 @@ while apps for Alexa in particular may be proliferating, it seems that people ar
 - “Say you want to order takeout,” he said. "Imagine a voice that reads out: ‘Here are the top twenty restaurants in your area. Number one …’ This would be insanely slow!”
 
 - The "magic" in a smart display or smart speaker is that it frees users from those other devices and allows them to ask questions or give commands simply by speaking from anywhere in a room.
+
+- Smart displays and smart speakers are always "on" and listening for their activation word, and they try to remember what they've heard and done in the past to improve how they respond to future requests. 
+
+- Smart home hubs have existed for decades, but have recently taken off with the advent of faster home wireless technology and the explosion of new smart home devices that followed. The latest trend in hubs are today's increasingly popular smart speakers and smart displays, such as the Lenovo Smart Assistant and Lenovo Smart Display, which can integrate with many smart home devices to create a kind of ad-hoc hub.
